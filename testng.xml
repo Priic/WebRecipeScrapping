@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	
+	<test thread-count="5" name="Test">
+		
+		<classes>			
+			<class name="com.MorbidConditions.Diabeties_Eliminate"></class>
+			<class name="com.MorbidConditions.DiabetesToAdd"></class>
+			<class name="com.MorbidConditions.DiabetesToAdd_AntioxidantTab"></class>
+			<class name="com.MorbidAllergies.Diabetic_Allergy"></class>
+			<class name="com.RecipeFoodCategory.AllRecipeFoodCategory_DiabeticRecipes"></class>
+			<class name="com.MorbidAllergies.Diabetic_ALLRecipes_Allergy"></class>
+			<class name="com.MorbidConditions.DiabetiesDinnerRecipes"></class>	
+			<class name="com.TestData.categoryList"></class>
+			<class name="com.TestData.Diabetes_IngredientsCheckList"></class>			
+		
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
+

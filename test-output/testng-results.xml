@@ -1,0 +1,498 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T11:52:27 CST" name="Default suite" finished-at="2023-12-19T12:22:48 CST" duration-ms="1821654">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T11:52:27 CST" name="Default test" finished-at="2023-12-19T12:22:48 CST" duration-ms="1821654">
+      <class name="com.MorbidConditions.HypertensionAdd">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.MorbidConditions.HypertensionAdd@7bbc8656]" started-at="2023-12-19T11:52:27 CST" name="beforeclass" finished-at="2023-12-19T11:52:28 CST" duration-ms="1738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.MorbidConditions.HypertensionAdd@7bbc8656]" started-at="2023-12-19T11:52:28 CST" name="beforemethod" finished-at="2023-12-19T11:52:37 CST" duration-ms="9055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="scrapeHypertensionToAddRecipe()[pri:0, instance:com.MorbidConditions.HypertensionAdd@7bbc8656]" started-at="2023-12-19T11:52:38 CST" name="scrapeHypertensionToAddRecipe" finished-at="2023-12-19T12:22:48 CST" duration-ms="1810779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapeHypertensionToAddRecipe -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.MorbidConditions.HypertensionAdd@7bbc8656]" started-at="2023-12-19T12:22:48 CST" name="afterclass" finished-at="2023-12-19T12:22:48 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.MorbidConditions.HypertensionAdd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+<<<<<<< HEAD
+  <suite started-at="2023-12-19T13:50:28 CST" name="Default suite" finished-at="2023-12-19T15:19:39 CST" duration-ms="5350761">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T13:50:28 CST" name="Default test" finished-at="2023-12-19T15:19:39 CST" duration-ms="5350761">
+      <class name="com.MorbidAllergies.HypertensionAllergy">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.MorbidAllergies.HypertensionAllergy@71ba6d4e]" started-at="2023-12-19T13:50:28 CST" name="beforeclass" finished-at="2023-12-19T13:50:36 CST" duration-ms="7127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.MorbidAllergies.HypertensionAllergy@71ba6d4e]" started-at="2023-12-19T13:50:36 CST" name="beforemethod" finished-at="2023-12-19T13:50:41 CST" duration-ms="5161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="highBloodPressure()[pri:0, instance:com.MorbidAllergies.HypertensionAllergy@71ba6d4e]" started-at="2023-12-19T13:50:41 CST" name="highBloodPressure" finished-at="2023-12-19T15:19:39 CST" duration-ms="5338210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highBloodPressure -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.MorbidAllergies.HypertensionAllergy@71ba6d4e]" started-at="2023-12-19T15:19:39 CST" name="afterclass" finished-at="2023-12-19T15:19:39 CST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.MorbidAllergies.HypertensionAllergy -->
+=======
+  <suite started-at="2023-12-18T22:11:10 EST" name="Default suite" finished-at="2023-12-18T22:21:53 EST" duration-ms="643284">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T22:11:10 EST" name="Default test" finished-at="2023-12-18T22:21:53 EST" duration-ms="643284">
+      <class name="com.MorbidConditions.PCOSAllergy">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.MorbidConditions.PCOSAllergy@73a1e9a9]" started-at="2023-12-18T22:11:10 EST" name="beforeclass" finished-at="2023-12-18T22:11:12 EST" duration-ms="2585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.MorbidConditions.PCOSAllergy@73a1e9a9]" started-at="2023-12-18T22:11:12 EST" name="beforemethod" finished-at="2023-12-18T22:11:25 EST" duration-ms="13137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="scrapeSnacksRecipe()[pri:0, instance:com.MorbidConditions.PCOSAllergy@73a1e9a9]" started-at="2023-12-18T22:11:25 EST" name="scrapeSnacksRecipe" finished-at="2023-12-18T22:21:53 EST" duration-ms="627504" status="FAIL">
+          <exception class="java.net.UnknownHostException">
+            <message>
+              <![CDATA[www.tarladalal.com]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.net.UnknownHostException: www.tarladalal.com
+at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+at java.base/java.net.Socket.connect(Socket.java:633)
+at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)
+at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:532)
+at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:637)
+at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266)
+at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380)
+at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:848)
+at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:818)
+at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:346)
+at org.jsoup.helper.HttpConnection.get(HttpConnection.java:331)
+at com.MorbidConditions.PCOSAllergy.scrapeSnacksRecipe(PCOSAllergy.java:102)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+=======
+<testng-results ignored="0" total="5" passed="2" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-18T20:32:20 EST" name="Suite" finished-at="2023-12-18T21:03:05 EST" duration-ms="1845139">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T20:32:20 EST" name="scrapping" finished-at="2023-12-18T21:03:05 EST" duration-ms="1845139">
+      <class name="com.RecipeFoodCategory.LunchRecipe_WithfoodCat">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.RecipeFoodCategory.LunchRecipe_WithfoodCat@22ff4249]" started-at="2023-12-18T21:00:45 EST" name="beforeclass" finished-at="2023-12-18T21:00:46 EST" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.RecipeFoodCategory.LunchRecipe_WithfoodCat@22ff4249]" started-at="2023-12-18T21:00:46 EST" name="beforemethod" finished-at="2023-12-18T21:00:53 EST" duration-ms="7749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="scrapelunchRecipe()[pri:0, instance:com.RecipeFoodCategory.LunchRecipe_WithfoodCat@22ff4249]" started-at="2023-12-18T21:00:53 EST" name="scrapelunchRecipe" finished-at="2023-12-18T21:03:05 EST" duration-ms="131834" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//span[@class='rcc_recipename']/a)[7]"}
+  (Session info: headless chrome=119.0.6045.105)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [017c64143e49908b4b59fc63cf81c350, findElement {using=xpath, value=(//span[@class='rcc_recipename']/a)[7]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\kiran\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64301}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64301/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 017c64143e49908b4b59fc63cf81c350]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[@class='rcc_recipename']/a)[7]"}
+  (Session info: headless chrome=119.0.6045.105)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [017c64143e49908b4b59fc63cf81c350, findElement {using=xpath, value=(//span[@class='rcc_recipename']/a)[7]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\kiran\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64301}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64301/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 017c64143e49908b4b59fc63cf81c350
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at com.RecipeFoodCategory.LunchRecipe_WithfoodCat.scrapelunchRecipe(LunchRecipe_WithfoodCat.java:107)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+>>>>>>> 2d314de73986116c7bfb27eecba74e50e2fc46fd
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+<<<<<<< HEAD
+          </exception> <!-- java.net.UnknownHostException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapeSnacksRecipe -->
+      </class> <!-- com.MorbidConditions.PCOSAllergy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+=======
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapelunchRecipe -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.RecipeFoodCategory.LunchRecipe_WithfoodCat@22ff4249]" started-at="2023-12-18T21:03:05 EST" name="afterclass" finished-at="2023-12-18T21:03:05 EST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.RecipeFoodCategory.LunchRecipe_WithfoodCat -->
+      <class name="com.MorbidConditions.LunchHyperthyroidism_Eliminate">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.MorbidConditions.LunchHyperthyroidism_Eliminate@6025e1b6]" started-at="2023-12-18T20:59:51 EST" name="beforeclass" finished-at="2023-12-18T20:59:52 EST" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.MorbidConditions.LunchHyperthyroidism_Eliminate@6025e1b6]" started-at="2023-12-18T20:59:52 EST" name="beforemethod" finished-at="2023-12-18T20:59:59 EST" duration-ms="7038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="scrapeLunchRecipe()[pri:0, instance:com.MorbidConditions.LunchHyperthyroidism_Eliminate@6025e1b6]" started-at="2023-12-18T20:59:59 EST" name="scrapeLunchRecipe" finished-at="2023-12-18T21:00:45 EST" duration-ms="45443" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//span[@class='rcc_recipename']/a)[2]"}
+  (Session info: headless chrome=119.0.6045.105)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8280e85d95eaca4fa33309b858826502, findElement {using=xpath, value=(//span[@class='rcc_recipename']/a)[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\kiran\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62795}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62795/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8280e85d95eaca4fa33309b858826502]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[@class='rcc_recipename']/a)[2]"}
+  (Session info: headless chrome=119.0.6045.105)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8280e85d95eaca4fa33309b858826502, findElement {using=xpath, value=(//span[@class='rcc_recipename']/a)[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\kiran\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62795}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62795/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8280e85d95eaca4fa33309b858826502
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at com.MorbidConditions.LunchHyperthyroidism_Eliminate.scrapeLunchRecipe(LunchHyperthyroidism_Eliminate.java:89)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapeLunchRecipe -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.MorbidConditions.LunchHyperthyroidism_Eliminate@6025e1b6]" started-at="2023-12-18T21:00:45 EST" name="afterclass" finished-at="2023-12-18T21:00:45 EST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.MorbidConditions.LunchHyperthyroidism_Eliminate -->
+      <class name="com.MorbidConditions.HypothyrodismEliminate">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.MorbidConditions.HypothyrodismEliminate@6a6cb05c]" started-at="2023-12-18T20:39:36 EST" name="beforeclass" finished-at="2023-12-18T20:39:37 EST" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.MorbidConditions.HypothyrodismEliminate@6a6cb05c]" started-at="2023-12-18T20:39:37 EST" name="beforemethod" finished-at="2023-12-18T20:39:40 EST" duration-ms="3328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="scrapeRecipe()[pri:0, instance:com.MorbidConditions.HypothyrodismEliminate@6a6cb05c]" started-at="2023-12-18T20:39:40 EST" name="scrapeRecipe" finished-at="2023-12-18T20:50:02 EST" duration-ms="621445" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[java.util.concurrent.TimeoutException
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [171b3d0a5bb5ce3389795d60534b7ab2, get {url=https://www.tarladalal.com/recipes-for-hypothyroidism-veg-diet-indian-recipes-849?pageindex=2}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\kiran\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59909}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59909/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 171b3d0a5bb5ce3389795d60534b7ab2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [171b3d0a5bb5ce3389795d60534b7ab2, get {url=https://www.tarladalal.com/recipes-for-hypothyroidism-veg-diet-indian-recipes-849?pageindex=2}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\kiran\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59909}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59909/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 171b3d0a5bb5ce3389795d60534b7ab2
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:402)
+at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:358)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:188)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:305)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:1068)
+at com.MorbidConditions.HypothyrodismEliminate.scrapeRecipe(HypothyrodismEliminate.java:214)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: java.util.concurrent.TimeoutException
+at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:385)
+... 36 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapeRecipe -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.MorbidConditions.HypothyrodismEliminate@6a6cb05c]" started-at="2023-12-18T20:50:02 EST" name="afterclass" finished-at="2023-12-18T20:50:08 EST" duration-ms="6262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.MorbidConditions.HypothyrodismEliminate -->
+      <class name="com.MorbidAllergies.Hypothyroidism_Allergy">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.MorbidAllergies.Hypothyroidism_Allergy@22555ebf]" started-at="2023-12-18T20:32:20 EST" name="beforeclass" finished-at="2023-12-18T20:32:23 EST" duration-ms="2919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.MorbidAllergies.Hypothyroidism_Allergy@22555ebf]" started-at="2023-12-18T20:32:23 EST" name="beforemethod" finished-at="2023-12-18T20:32:31 EST" duration-ms="7590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="scrapeRecipe()[pri:0, instance:com.MorbidAllergies.Hypothyroidism_Allergy@22555ebf]" started-at="2023-12-18T20:32:31 EST" name="scrapeRecipe" finished-at="2023-12-18T20:39:35 EST" duration-ms="424903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapeRecipe -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.MorbidAllergies.Hypothyroidism_Allergy@22555ebf]" started-at="2023-12-18T20:39:36 EST" name="afterclass" finished-at="2023-12-18T20:39:36 EST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.MorbidAllergies.Hypothyroidism_Allergy -->
+      <class name="com.MorbidConditions.Hypothyroidism">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.MorbidConditions.Hypothyroidism@40a4337a]" started-at="2023-12-18T20:50:08 EST" name="beforeclass" finished-at="2023-12-18T20:50:09 EST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.MorbidConditions.Hypothyroidism@40a4337a]" started-at="2023-12-18T20:50:09 EST" name="beforemethod" finished-at="2023-12-18T20:50:14 EST" duration-ms="5389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="scrapeHypothyroidismRecipe()[pri:0, instance:com.MorbidConditions.Hypothyroidism@40a4337a]" started-at="2023-12-18T20:50:14 EST" name="scrapeHypothyroidismRecipe" finished-at="2023-12-18T20:59:51 EST" duration-ms="576646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapeHypothyroidismRecipe -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.MorbidConditions.Hypothyroidism@40a4337a]" started-at="2023-12-18T20:59:51 EST" name="afterclass" finished-at="2023-12-18T20:59:51 EST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.MorbidConditions.Hypothyroidism -->
+    </test> <!-- scrapping -->
+  </suite> <!-- Suite -->
+>>>>>>> 2d314de73986116c7bfb27eecba74e50e2fc46fd
+=======
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-18T22:52:20 CST" name="Default suite" finished-at="2023-12-18T23:18:40 CST" duration-ms="1580440">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T22:52:20 CST" name="Default test" finished-at="2023-12-18T23:18:40 CST" duration-ms="1580440">
+      <class name="com.MorbidConditions.DiabetesToAdd">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.MorbidConditions.DiabetesToAdd@5e0826e7]" started-at="2023-12-18T22:52:20 CST" name="beforeclass" finished-at="2023-12-18T22:52:23 CST" duration-ms="3231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.MorbidConditions.DiabetesToAdd@5e0826e7]" started-at="2023-12-18T22:52:23 CST" name="beforemethod" finished-at="2023-12-18T22:52:34 CST" duration-ms="11009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="scrapeDiabeticToAddRecipe()[pri:0, instance:com.MorbidConditions.DiabetesToAdd@5e0826e7]" started-at="2023-12-18T22:52:34 CST" name="scrapeDiabeticToAddRecipe" finished-at="2023-12-18T23:18:40 CST" duration-ms="1566138" status="FAIL">
+          <exception class="org.openqa.selenium.UnhandledAlertException">
+            <message>
+              <![CDATA[unexpected alert open: {Alert text : unable to find the user status}
+  (Session info: chrome-headless-shell=120.0.6099.72): unable to find the user status
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0af4177fb9006192d4a8c80a5d6c2b18, findElements {using=xpath, value=(//div[@id='recipe_tags']/a)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\tusha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50735}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50735/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0af4177fb9006192d4a8c80a5d6c2b18]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : unable to find the user status}
+  (Session info: chrome-headless-shell=120.0.6099.72): unable to find the user status
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0af4177fb9006192d4a8c80a5d6c2b18, findElements {using=xpath, value=(//div[@id='recipe_tags']/a)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\tusha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50735}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50735/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0af4177fb9006192d4a8c80a5d6c2b18
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:373)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:367)
+at com.MorbidConditions.DiabetesToAdd.scrapeDiabeticToAddRecipe(DiabetesToAdd.java:143)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.UnhandledAlertException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapeDiabeticToAddRecipe -->
+      </class> <!-- com.MorbidConditions.DiabetesToAdd -->
+>>>>>>> 8f57850daeb46455ee35419cc1edfa14144bf33c
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+>>>>>>> priyanka
+</testng-results>
+>>>>>>> e7eba61fd1005eb7b99431d1015939b93ad3358d

@@ -1,0 +1,77 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.TestScripts.HomePageValidation">
+        <methods>
+          <include name="CheckElements"/>
+          <include name="beforeclass"/>
+          <include name="beforemethod"/>
+          <include name="afterclass"/>
+        </methods>
+      </class> <!-- com.TestScripts.HomePageValidation -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.TestScripts.HomePageValidation">
+        <methods>
+          <include name="CheckElements"/>
+=======
+  <test thread-count="5" name="scrapping(failed)">
+    <classes>
+      <class name="com.MorbidConditions.LunchHyperthyroidism_Eliminate">
+        <methods>
+          <include name="scrapeLunchRecipe"/>
+>>>>>>> 2d314de73986116c7bfb27eecba74e50e2fc46fd
+          <include name="beforeclass"/>
+          <include name="beforemethod"/>
+          <include name="afterclass"/>
+        </methods>
+<<<<<<< HEAD
+      </class> <!-- com.TestScripts.HomePageValidation -->
+    </classes>
+  </test> <!-- Test(failed) -->
+=======
+      </class> <!-- com.MorbidConditions.LunchHyperthyroidism_Eliminate -->
+      <class name="com.MorbidConditions.HypothyrodismEliminate">
+        <methods>
+          <include name="scrapeRecipe"/>
+          <include name="beforeclass"/>
+          <include name="beforemethod"/>
+          <include name="afterclass"/>
+        </methods>
+      </class> <!-- com.MorbidConditions.HypothyrodismEliminate -->
+      <class name="com.RecipeFoodCategory.LunchRecipe_WithfoodCat">
+        <methods>
+          <include name="scrapelunchRecipe"/>
+          <include name="beforeclass"/>
+          <include name="beforemethod"/>
+          <include name="afterclass"/>
+        </methods>
+      </class> <!-- com.RecipeFoodCategory.LunchRecipe_WithfoodCat -->
+    </classes>
+  </test> <!-- scrapping(failed) -->
+>>>>>>> 2d314de73986116c7bfb27eecba74e50e2fc46fd
+=======
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.Utilities.TakeScreenshotClass">
+        <methods>
+          <include name="takescreenshot"/>
+        </methods>
+      </class> <!-- com.Utilities.TakeScreenshotClass -->
+    </classes>
+  </test> <!-- Test(failed) -->
+>>>>>>> priyanka
+</suite> <!-- Failed suite [Suite] -->
+>>>>>>> e7eba61fd1005eb7b99431d1015939b93ad3358d

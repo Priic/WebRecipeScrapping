@@ -1,0 +1,79 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.MorbidConditions.HypertensionAdd">
+        <methods>
+          <include name="scrapeHypertensionToAddRecipe"/>
+          <include name="beforeclass"/>
+          <include name="beforemethod"/>
+          <include name="afterclass"/>
+        </methods>
+      </class> <!-- com.MorbidConditions.HypertensionAdd -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="scrapping(failed)">
+    <classes>
+<<<<<<< HEAD
+      <class name="com.MorbidAllergies.HypertensionAllergy">
+        <methods>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <class name="com.MorbidConditions.PCOSAllergy">
+        <methods>
+=======
+      <class name="com.MorbidConditions.LunchHyperthyroidism_Eliminate">
+        <methods>
+          <include name="scrapeLunchRecipe"/>
+>>>>>>> 2d314de73986116c7bfb27eecba74e50e2fc46fd
+          <include name="beforeclass"/>
+          <include name="scrapeSnacksRecipe"/>
+          <include name="beforemethod"/>
+        </methods>
+<<<<<<< HEAD
+      </class> <!-- com.MorbidConditions.PCOSAllergy -->
+=======
+      </class> <!-- com.MorbidConditions.LunchHyperthyroidism_Eliminate -->
+      <class name="com.MorbidConditions.HypothyrodismEliminate">
+        <methods>
+          <include name="scrapeRecipe"/>
+=======
+      <class name="com.MorbidConditions.DiabetesToAdd">
+        <methods>
+>>>>>>> priyanka
+          <include name="beforeclass"/>
+          <include name="scrapeDiabeticToAddRecipe"/>
+          <include name="beforemethod"/>
+        </methods>
+<<<<<<< HEAD
+      </class> <!-- com.MorbidConditions.HypothyrodismEliminate -->
+      <class name="com.RecipeFoodCategory.LunchRecipe_WithfoodCat">
+        <methods>
+          <include name="scrapelunchRecipe"/>
+>>>>>>> 8f57850daeb46455ee35419cc1edfa14144bf33c
+          <include name="beforeclass"/>
+          <include name="highBloodPressure"/>
+          <include name="beforemethod"/>
+          <include name="afterclass"/>
+        </methods>
+<<<<<<< HEAD
+      </class> <!-- com.MorbidAllergies.HypertensionAllergy -->
+=======
+      </class> <!-- com.RecipeFoodCategory.LunchRecipe_WithfoodCat -->
+>>>>>>> 2d314de73986116c7bfb27eecba74e50e2fc46fd
+=======
+      </class> <!-- com.MorbidConditions.DiabetesToAdd -->
+>>>>>>> priyanka
+>>>>>>> 8f57850daeb46455ee35419cc1edfa14144bf33c
+    </classes>
+  </test> <!-- scrapping(failed) -->
+</suite> <!-- Failed suite [Suite] -->
+>>>>>>> e7eba61fd1005eb7b99431d1015939b93ad3358d
